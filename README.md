@@ -8,6 +8,7 @@ The application simulates basic banking operations such as:
 * 💰 Checking account balance
 * ➕ Depositing money
 * ➖ Withdrawing money
+* 📥 CSV transaction export
 * 📋 Viewing transaction history
 * 🔄 Managing application state
 * 🧭 Navigating through a Streamlit sidebar
